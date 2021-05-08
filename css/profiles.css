@@ -1,0 +1,61 @@
+/* profile info bg */
+.topSectionNormal-2-vo2m {
+  background-color: var(--top-card);
+  border-bottom: 2px solid var(--selected); 
+}
+/* send message button */
+.lookInverted-2D7oAl.colorBrand-3pXr91, .lookFilled-1Gx00P.colorGreen-29iAKY {
+  background-color: var(--selected);
+}
+.lookInverted-2D7oAl.colorBrand-3pXr9:hover, .lookFilled-1Gx00P.colorGreen-29iAKY:hover {
+  background-color: var(--selected-bright);
+}
+/* bottom part */
+.body-3ND3kc {
+  background-color: var(--bottom-card);
+}
+/* info tabs */
+.tabBarContainer-1s1u-z {
+  position: relative;
+  top: 2px;
+  border-color: transparent;
+}
+/* user info boxes*/
+.connectedAccount-36nQx7 {
+  background-color: var(--selected);
+}
+/* while playing */
+.topSectionPlaying-1J5E4n {
+  background-color: var(--top-card);
+  border-bottom: 2px solid var(--selected);
+}
+.activityProfile-2bJRaP.activity-1ythUs {
+  background: var(--selected);
+}
+
+/* profile popup top (playing and not) & bottom (body & footer) */
+.headerPlaying-j0WQBV {
+  background-color: var(--top-card);
+}
+.theme-dark .headerNormal-T_seeN {
+  background-color: var(--top-card-dark);
+}
+.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
+  background-color: var(--top-card-dark);
+}
+/* activity part */
+.activity-11LB_k {
+  background-color: var(--selected);
+  background-clip: padding-box;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-right: 6px;
+  margin-left: 6px;
+}
+/* text boxes (notes & dm) */
+.textarea-2r0oV8:focus {
+  background-color: var(--selected);
+}
+.inputWrapper-31_8H8>.input-cIJ7To {
+  background-color: var(--selected);
+}
