@@ -1,10 +1,6 @@
 @import "colors.css";
 @import "main_bg.css";
-
-/* friends tab */
-.theme-dark .container-1D34oG {
-  background-color: transparent;
-}
+@import "friends_page.css";
 
 /* friends tab activity bg */
 .theme-dark .inset-3sAvek {
