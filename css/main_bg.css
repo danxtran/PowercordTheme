@@ -3,3 +3,8 @@
   background: url("../images/crop1.png") !important;
   background-size: cover !important;
 }
+
+/* layer above main bg (if for some reason you want another bg above the main bg image) */
+.app-2rEoOp {
+  background: transparent;
+}
