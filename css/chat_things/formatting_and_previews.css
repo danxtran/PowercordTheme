@@ -1,0 +1,25 @@
+/* no format box */
+.markup-2BOw-j code {
+  background: var(--secondary);
+  border: transparent;
+}
+
+/* txt file in text display bg and footer bg*/
+.textContainer-C0szpm {
+  background: var(--secondary);
+  border: 1px solid var(--secondary);
+}
+.footer-2yA7Ep {  
+  background: var(--bottom-card);
+  border: 1px solid var(--secondary);
+}
+
+/* txt file preview */
+.theme-dark .root-1gCeng {
+  background-color: var(--main);
+}
+
+/* embed bg */
+.embedFull-2tM8-- {
+  background: var(--secondary);
+}
