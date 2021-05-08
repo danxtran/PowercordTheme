@@ -1,6 +1,17 @@
 @import "formatting_and_previews.css";  /* for message embeds, previews, etc. */
 @import "chat_popouts.css";  /* for upload / pin message popouts */
 
+/* message options menu (the popup on the side of a hovered message)*/
+.wrapper-2aW0bm {
+  background-color: var(--secondary);
+}
+.button-1ZiXG9:hover {
+  background-color: var(--selected-bright);
+}
+.button-1ZiXG9.selected-LCBEAU {
+  background-color: var(--selected-bright);
+}
+
 /* new message separator */
 .unreadPillCapStroke-7rkHbg {
   color: var(--blue);
@@ -27,7 +38,7 @@
   background: var(--secondary);
 }
 
-/* autofill / emote bg */
+/* autofill menu bg */
 .theme-dark .autocomplete-1vrmpx {
   background: var(--main);
 }
