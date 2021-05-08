@@ -1,0 +1,9 @@
+/* server list bg */
+.scroller-1Bvpku, .guilds-1SWlCJ {
+  background: transparent !important;
+}
+
+/* "transparent" server icon bg */
+.childWrapper-anI2G9 {
+  background-color: var(--secondary);
+}
