@@ -1,5 +1,6 @@
+/* colors for theme */
 :root {
-	--textbox: rgba(0, 0, 0, 0.1);
+  --textbox: rgba(0, 0, 0, 0.1);
   --main: rgba(0,0,0,0.8);
   --secondary: rgba(0,0,0,0.4);
   --top-card:rgba(0, 0, 0, 0.9);
@@ -10,6 +11,7 @@
   --blue: #7289DA
 }
 
+/* modified dark theme colors */
 .theme-dark {
   --background-primary: transparent;
   --background-tertiary: var(--main);
