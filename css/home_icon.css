@@ -1,0 +1,18 @@
+/* home icon not active */
+.wrapper-1BJsBx[aria-label="Home"]>.childWrapper-anI2G9 {
+  background: url(../images/home_inactive.png) var(--top-card-dark);
+  background-size: cover;
+  transition: background .15s ease-out, color .15s ease-out;
+}
+
+/* home icon active */
+.wrapper-1BJsBx.selected-bZ3Lue[aria-label="Home"]>.childWrapper-anI2G9 {
+  background: url(../images/home_active.png) var(--selected-bright);
+  background-size: cover;
+  transition: background .15s ease-out, color .15s ease-out;
+}
+
+/* get rid of original icon */
+.homeIcon-FuNwkv {
+  display: none;
+}
