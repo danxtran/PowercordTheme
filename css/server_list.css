@@ -7,3 +7,22 @@
 .childWrapper-anI2G9 {
   background-color: var(--secondary);
 }
+
+/* folder dropdown bg */
+.expandedFolderBackground-1cujaW {
+  background-color: var(--secondary);
+}
+
+/* closed folder bg */
+.closedFolderIconWrapper-2sTcE6 {
+  background-color: var(--secondary);
+}
+
+/* expanded folder background */
+.expandedFolderIconWrapper-Huv7rA {
+  background-color: transparent;
+}
+/* folder bg */
+.folderIconWrapper-1_bOZe {
+  background: transparent !important;
+}
