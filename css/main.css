@@ -1,11 +1,5 @@
 @import "colors.css";
 
-/* Main Background */
-.appMount-3lHmkl {
-  background: url(../crop1.png) !important;
-  background-size: cover !important;
-}
-
 /* home icon */
 .wrapper-1BJsBx[aria-label="Home"]>.childWrapper-anI2G9 {
   background: url(https://cdn.discordapp.com/attachments/470422748590505985/839665530855489576/home_icon.png) var(--top-card-dark);
