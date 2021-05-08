@@ -1,0 +1,10 @@
+/* pinned messages main bg */
+.messagesPopoutWrap-1MQ1bW {
+  background-color: var(--main);
+}
+
+/* message bg */
+.messageGroupWrapper-o-Zw7G {
+  background-color: var(--selected);
+  border: 1px solid var(--secondary);
+}

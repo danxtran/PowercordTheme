@@ -1,0 +1,9 @@
+/* friends page bg */
+.theme-dark .container-1D34oG {
+  background-color: transparent;
+}
+
+/* friends page "active now" game bg */
+.theme-dark .inset-3sAvek {
+  background-color: var(--selected);
+}

@@ -1,0 +1,73 @@
+/* new message separator */
+.unreadPillCapStroke-7rkHbg {
+  color: var(--blue);
+  fill: var(--blue);
+}
+.unreadPill-2HyYtt {
+  background-color: var(--blue);
+}
+.isUnread-3Ef-o9 {
+  border-color: var(--blue);
+}
+.isUnread-3Ef-o9 .content-1o0f9g {
+  color: #fff;
+  background-color: var(--top-card);
+}
+
+/* jump to present tab */
+.jumpToPresentBar-G1R9s6 {
+  background-color: var(--top-card);
+}
+
+/* replying to tab */
+.container-2fRDfG {
+  background: var(--secondary);
+}
+
+/* no format box */
+.markup-2BOw-j code {
+  background: var(--secondary);
+  border: transparent;
+}
+
+/* txt file in text display bg and footer bg*/
+.textContainer-C0szpm {
+  background: var(--secondary);
+  border: 1px solid var(--secondary);
+}
+.footer-2yA7Ep {  
+  background: var(--bottom-card);
+  border: 1px solid var(--secondary);
+}
+
+/* txt file preview */
+.theme-dark .root-1gCeng {
+  background-color: var(--main);
+}
+
+/* embed bg */
+.embedFull-2tM8-- {
+  background: var(--secondary);
+}
+
+/* autofill / emote bg */
+.theme-dark .autocomplete-1vrmpx {
+  background: var(--main);
+}
+.theme-dark .selected-1Tbx07 {
+  background-color: var(--selected);
+}
+
+/* file upload bg, footer, textbox, upload button */
+.theme-dark .uploadModal-2ifh8j {
+  background-color: var(--main);
+}
+.uploadModal-2ifh8j .footer-3mqk7D.hasSpoilers-1IRtQC {
+  background-color: transparent;
+}
+.uploadModal-2ifh8j .inner-3nWsbo .channelTextAreaUpload-3t7EIx {
+  background-color: var(--selected);
+}
+.lookFilled-1Gx00P.colorBrand-3pXr91 {
+  background-color: var(--selected);
+}
