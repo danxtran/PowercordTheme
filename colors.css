@@ -1,0 +1,27 @@
+:root {
+	--textbox: rgba(0, 0, 0, 0.1);
+  --main: rgba(0,0,0,0.8);
+  --secondary: rgba(0,0,0,0.4);
+  --top-card:rgba(0, 0, 0, 0.9);
+  --top-card-dark:rgba(0, 0, 0, 0.97);
+  --bottom-card:rgba(0,0,0,0.7);
+  --selected: rgba(255,255,255,0.06);
+  --selected-bright: rgba(255,255,255,0.2);
+  --blue: #7289DA
+}
+
+.theme-dark {
+  --background-primary: transparent;
+  --background-tertiary: var(--main);
+  --background-secondary: transparent;
+  --background-secondary-alt: transparent;
+  --channeltextarea-background: var(--textbox);
+  --background-floating: var(--main);
+  --scrollbar-auto-track: transparent;
+  --scrollbar-auto-thumb: var(--secondary);
+  --scrollbar-thin-thumb: var(--secondary);
+  --deprecated-store-bg: transparent;
+  --background-message-hover: var(--selected);
+  --activity-card-background: var(--main);
+  --background-accent: var(--selected);
+}
