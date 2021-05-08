@@ -32,3 +32,8 @@
 #app-mount .option-96V44q.selected-rZcOL- {
   background-color: var(--selected);
 }
+
+/* "search for..." part of popout when selected / hovered */
+#app-mount .focused-2bY0OD {
+  background-color: var(--selected);
+}
