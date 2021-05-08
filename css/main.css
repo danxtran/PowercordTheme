@@ -15,7 +15,7 @@ May 8, 2021
 @import "home_icon.css";  /* custom home / dm icon */
 @import "chat_things.css";  /* chat notifications (new message, replying to, etc.) and chat formatting (embeds, file previews, etc.) */
 @import "pinned_messages.css";  /* pinned messages stuff */
-@import "message+search.css";  /* ctrl + f / message search stuff */
+@import "message_search.css";  /* ctrl + f / message search stuff */
 @import "inbox.css";  /* inbox stuff */
 @import "dm_list.css";  /* direct messages search and other dm channels list stuff */
 @import "profiles.css";  /* user profile info (when you click on someone's avatar) */
