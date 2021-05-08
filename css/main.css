@@ -10,7 +10,7 @@ May 8, 2021
 @import "colors.css";  /* color variables and default color edits */
 @import "main_bg.css";  /* main bg */
 @import "friends_page.css";  /* friends page stuff */
-@import "settings_page.css";  /* settings page stuff */
+@import "settings_page/settings_page.css";  /* settings page stuff */
 @import "server_list.css";  /* server list stuff (does not include extra home icon edits) */
 @import "home_icon.css";  /* custom home / dm icon */
 @import "chat_things.css";  /* chat notifications (new message, replying to, etc.) and chat formatting (embeds, file previews, etc.) */
