@@ -2,11 +2,6 @@
 @import "main_bg.css";
 @import "friends_page.css";
 
-/* friends tab activity bg */
-.theme-dark .inset-3sAvek {
-  background-color: var(--selected);
-}
-
 /* settings tab divider*/
 .sidebarRegionScroller-3MXcoP {
   border-right: 1px solid var(--background-modifier-accent);
