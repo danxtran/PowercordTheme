@@ -1,15 +1,7 @@
 @import "colors.css";
 @import "main_bg.css";
 @import "friends_page.css";
-
-/* settings tab divider*/
-.sidebarRegionScroller-3MXcoP {
-  border-right: 1px solid var(--background-modifier-accent);
-}
-/* settings */
-.layer-3QrUeG[aria-label="USER_SETTINGS"] {
-  background-color: var(--secondary);
-}
+@import "settings_page.css";
 
 /* back layer color of window*/
 .app-2rEoOp {
