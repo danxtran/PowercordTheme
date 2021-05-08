@@ -1,0 +1,18 @@
+/* file upload bg, footer, textbox, upload button */
+.theme-dark .uploadModal-2ifh8j {
+  background-color: var(--main);
+}
+.uploadModal-2ifh8j .footer-3mqk7D.hasSpoilers-1IRtQC {
+  background-color: transparent;
+}
+.uploadModal-2ifh8j .inner-3nWsbo .channelTextAreaUpload-3t7EIx {
+  background-color: var(--selected);
+}
+.lookFilled-1Gx00P.colorBrand-3pXr91 {
+  background-color: var(--selected);
+}
+
+/* pinned message preview box */
+.theme-dark .message-2qRu38 {
+  background: var(--selected);
+}
