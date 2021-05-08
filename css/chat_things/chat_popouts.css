@@ -8,11 +8,21 @@
 .uploadModal-2ifh8j .inner-3nWsbo .channelTextAreaUpload-3t7EIx {
   background-color: var(--selected);
 }
-.lookFilled-1Gx00P.colorBrand-3pXr91 {
-  background-color: var(--selected);
-}
 
 /* pinned message preview box */
 .theme-dark .message-2qRu38 {
   background: var(--selected);
+}
+/* pinned messages footer */
+.theme-dark .footer-2gL1pp {
+  background-color: transparent;
+}
+
+
+/* confirm / upload button */
+.lookFilled-1Gx00P.colorBrand-3pXr91 {
+  background-color: var(--selected);
+}
+.lookFilled-1Gx00P.colorBrand-3pXr91:hover {
+  background-color: var(--selected-bright);
 }
