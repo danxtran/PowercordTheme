@@ -1,0 +1,11 @@
+@import "user_settings_section.css";
+
+/* settings divider */
+.sidebarRegionScroller-3MXcoP {
+  border-right: 1px solid var(--background-modifier-accent);
+}
+
+/* settings page bg */
+.layer-3QrUeG[aria-label="USER_SETTINGS"] {
+  background-color: var(--secondary);
+}
