@@ -13,7 +13,7 @@ May 8, 2021
 @import "settings_page/settings_page.css";  /* settings page stuff */
 @import "server_list.css";  /* server list stuff (does not include extra home icon edits) */
 @import "home_icon.css";  /* custom home / dm icon */
-@import "chat_things.css";  /* chat notifications (new message, replying to, etc.) and chat formatting (embeds, file previews, etc.) */
+@import "chat_things/chat_things.css";  /* chat notifications (new message, replying to, etc.) and chat formatting (embeds, file previews, etc.) */
 @import "pinned_messages.css";  /* pinned messages stuff */
 @import "message_search.css";  /* ctrl + f / message search stuff */
 @import "inbox.css";  /* inbox stuff */
