@@ -3,11 +3,6 @@
 @import "friends_page.css";
 @import "settings_page.css";
 
-/* back layer color of window*/
-.app-2rEoOp {
-  background: transparent;
-}
-
 /* server list bg */
 .scroller-1Bvpku, .guilds-1SWlCJ {
   background: transparent !important;
