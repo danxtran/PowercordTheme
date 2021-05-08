@@ -7,3 +7,11 @@
 .theme-dark .inset-3sAvek {
   background-color: var(--selected);
 }
+
+/* friends page action buttons (message / more) */
+.actionButton-uPB8Fs {
+  background-color: var(--secondary);
+}
+.actionButton-uPB8Fs:hover {
+  background-color: var(--selected-bright);
+}
