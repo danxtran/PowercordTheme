@@ -1,21 +1,6 @@
 @import "colors.css";
 @import "main_bg.css";
 
-/* home icon */
-.wrapper-1BJsBx[aria-label="Home"]>.childWrapper-anI2G9 {
-  background: url(https://cdn.discordapp.com/attachments/470422748590505985/839665530855489576/home_icon.png) var(--top-card-dark);
-  background-size: cover;
-  transition: background .15s ease-out, color .15s ease-out;
-}
-.wrapper-1BJsBx.selected-bZ3Lue[aria-label="Home"]>.childWrapper-anI2G9 {
-  background: url(https://cdn.discordapp.com/attachments/470422748590505985/839665528758599701/home_active.png) var(--selected-bright);
-  background-size: cover;
-  transition: background .15s ease-out, color .15s ease-out;
-}
-.homeIcon-FuNwkv {
-  display: none;
-}
-
 /* friends tab */
 .theme-dark .container-1D34oG {
   background-color: transparent;
