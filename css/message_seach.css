@@ -1,0 +1,34 @@
+/* message search bar */
+.searchBar-3dMhjb {
+  background-color: var(--textbox);
+}
+.theme-dark .searchFilter-2ESiM3 {
+  background-color: var(--selected-bright);
+}
+.theme-dark .searchAnswer-3Dz2-q {
+  background-color: var(--selected-bright);
+  margin-left: 1px;
+  border-left: 1px solid var(--main);
+}
+
+/* search results */
+.searchResultsWrap-3-pOjs {
+  background-color: var(--main);
+}
+.button-11zvza {
+  background-color: transparent;
+}
+
+/* search results popout */
+#app-mount .container-3ayLPN {
+	background-color: var(--top-card-dark);
+}
+#app-mount .option-96V44q.selected-rZcOL- {
+  background-color: var(--selected);
+}
+#app-mount .option-96V44q::after {
+  display: none;
+}
+#app-mount .option-96V44q.selected-rZcOL- {
+  background-color: var(--selected);
+}
