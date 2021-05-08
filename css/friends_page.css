@@ -9,9 +9,15 @@
 }
 
 /* friends page action buttons (message / more) */
-.actionButton-uPB8Fs {
+.actionButton-uPB8Fs {  /* normal bg */
   background-color: var(--secondary);
 }
-.actionButton-uPB8Fs:hover {
+.actionButton-uPB8Fs.highlight-Lf97TE {  /* hover bg */
+  background-color: var(--secondary-dark);
+}
+.actionButton-uPB8Fs.highlight-Lf97TE:hover { /* highlighted hover bg */
+  background-color: var(--selected-bright);
+}
+.actionButton-uPB8Fs:hover {  /* hover bg when not highlighted */
   background-color: var(--selected-bright);
 }
