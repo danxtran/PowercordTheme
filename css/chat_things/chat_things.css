@@ -1,5 +1,6 @@
 @import "formatting_and_previews.css";  /* for message embeds, previews, etc. */
 @import "chat_popouts.css";  /* for upload / pin message popouts */
+@import "emoji_picker.css";
 
 /* message options menu (the popup on the side of a hovered message)*/
 .wrapper-2aW0bm {
