@@ -1,0 +1,19 @@
+/* emoji picker bg */
+.contentWrapper-SvZHNd {
+  background-color: var(--secondary);
+}
+
+/* emoji search bar */
+.container-2XeR5Z {
+  background-color: var(--selected);
+}
+
+/* emoji picker server bar */
+.wrapper-2Gsate{
+  background-color: var(--secondary);
+}
+
+/* emoji picker tab thing */
+.navButtonActive-1MkytQ {
+  background-color: var(--selected-bright);
+}
