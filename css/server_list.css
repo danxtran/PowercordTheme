@@ -14,13 +14,13 @@
 }
 
 /* closed folder bg */
-.closedFolderIconWrapper-2sTcE6 {
+.closedFolderIconWrapper-1I9YfS {
   background-color: var(--secondary);
 }
 
 /* expanded folder background */
-.expandedFolderIconWrapper-Huv7rA {
-  background-color: transparent;
+.expandedFolderBackground-3ZDF05 {
+  background-color: var(--secondary);
 }
 /* folder bg */
 .folderIconWrapper-1_bOZe {
