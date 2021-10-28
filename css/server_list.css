@@ -5,7 +5,12 @@
 
 /* "transparent" server icon bg */
 .childWrapper-anI2G9 {
-  background-color: var(--selected-bright) !important;
+  background-color: var(--secondary);
+}
+
+/* selected server icon bg */
+.childWrapper-anI2G9:hover {
+  background-color: var(--selected-bright);
 }
 
 /* folder dropdown bg */
