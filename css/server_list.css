@@ -8,8 +8,13 @@
   background-color: var(--secondary);
 }
 
+/* hover server icon bg */
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9 {
+  background-color: var(--selected);
+}
+
 /* selected server icon bg */
-.childWrapper-anI2G9:hover {
+.wrapper-1BJsBx:hover .childWrapper-anI2G9 {
   background-color: var(--selected-bright);
 }
 
