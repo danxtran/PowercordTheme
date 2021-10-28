@@ -5,7 +5,7 @@
 
 /* "transparent" server icon bg */
 .childWrapper-anI2G9 {
-  background-color: var(--secondary);
+  background-color: var(--secondary) !important;
 }
 
 /* folder dropdown bg */
