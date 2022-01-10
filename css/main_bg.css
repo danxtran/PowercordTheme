@@ -1,10 +1,10 @@
 /* Main Background */
-.appMount-3lHmkl {
+.app-3xd6d0{
   background: url(../images/main_bg1.png) !important;
   background-size: cover !important;
 }
 
 /* layer above main bg (if for some reason you want another bg above the main bg image) */
-.app-2rEoOp {
+.app-2CXKsg {
   background: transparent;
 }
