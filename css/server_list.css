@@ -1,39 +1,39 @@
 /* server list bg */
-.scroller-3X7KbA {
+.scroller-3X7KbA, .guilds-2JjMmN {
   background: transparent !important;
 }
 
 /* "transparent" server icon bg */
-.childWrapper-anI2G9 {
+.childWrapper-1j_1ub {
   background-color: var(--secondary);
 }
 
 /* hover server icon bg */
-.wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+.wrapper-3kah-n:hover .childWrapper-1j_1ub {
   background-color: var(--selected);
 }
 
 /* selected server icon bg */
-.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9 {
+.wrapper-3kah-n.selected-bZ3Lue .childWrapper-1j_1ub {
   background-color: var(--selected-bright);
 }
 
 /* folder dropdown bg */
-.expandedFolderBackground-1cujaW {
+.expandedFolderBackground-1kSAf6 {
   background-color: var(--secondary);
 }
 
 /* closed folder bg */
-.closedFolderIconWrapper-1I9YfS {
+.closedFolderIconWrapper-3tRb2d {
   background-color: var(--secondary);
 }
 
 /* expanded folder background */
-.expandedFolderBackground-3ZDF05 {
+.expandedFolderIconWrapper-3RwQpD {
   background-color: var(--secondary);
 }
 
 /* folder bg */
-.folderIconWrapper-1Ml_1q {
+.folderIconWrapper-1oRIZr {
   background: transparent !important;
 }
