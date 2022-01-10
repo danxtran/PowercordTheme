@@ -1,18 +1,18 @@
 /* home icon not active */
-.wrapper-1BJsBx[aria-label="Home"]>.childWrapper-anI2G9 {
+.wrapper-3kah-n[aria-label="Home"]>.childWrapper-1j_1ub {
   background: url(../images/home_inactive.png) var(--top-card-dark);
   background-size: cover;
   transition: background .15s ease-out, color .15s ease-out;
 }
 
 /* home icon active */
-.wrapper-1BJsBx.selected-bZ3Lue[aria-label="Home"]>.childWrapper-anI2G9 {
+.wrapper-3kah-n.selected-1Drb7Z[aria-label="Home"]>.childWrapper-1j_1ub {
   background: url(../images/home_active.png) var(--selected-bright);
   background-size: cover;
   transition: background .15s ease-out, color .15s ease-out;
 }
 
 /* get rid of original icon */
-.homeIcon-AaowEC {
+.homeIcon-r0w4ny {
   display: none;
 }
