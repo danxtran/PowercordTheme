@@ -1,10 +1,10 @@
 /* Main Background */
-.appMount-fae9dd {
+.appMount_fae9dd {
   background: url(../images/main_bg.png) !important;
   background-size: cover !important;
 }
 
 /* layer above main bg (if for some reason you want another bg above the main bg image) */
-.app-de4237 {
+.app_de4237 {
   background: transparent;
 }
