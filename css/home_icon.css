@@ -1,12 +1,12 @@
 /* home icon not active */
-.wrapper-3kah-n[aria-label="Direct Messages"]>.childWrapper-1j_1ub {
+.wrapper_d281dd[aria-label="Direct Messages"]>.childWrapper__01b9c {
   background: url(../images/home_inactive.png) var(--top-card-dark);
   background-size: cover;
   transition: background .15s ease-out, color .15s ease-out;
 }
 
 /* home icon active */
-.wrapper-3kah-n.selected-1Drb7Z[aria-label="Direct Messages"]>.childWrapper-1j_1ub {
+.wrapper_d281dd.selected_f5ec8e[aria-label="Direct Messages"]>.childWrapper__01b9c {
   background: url(../images/home_active.png) var(--selected-bright);
   background-size: cover;
   transition: background .15s ease-out, color .15s ease-out;
