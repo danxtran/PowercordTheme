@@ -13,6 +13,6 @@
 }
 
 /* get rid of original icon */
-img[alt~="App Icon"] {
+img[alt="App Icon"] {
   display: none;
 }
